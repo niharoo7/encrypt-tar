@@ -1,0 +1,2 @@
+[console_scripts]
+encrypt-tar = encrypt_tar:main

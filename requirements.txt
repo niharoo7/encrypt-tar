@@ -1,0 +1,4 @@
+cryptography==41.0.1
+rich==13.5.2
+pyinstaller==5.13.0
+

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: encrypt-tar
+Version: 1.0
+Requires-Dist: cryptography==41.0.1
+Requires-Dist: rich==13.5.2
+Requires-Dist: pyinstaller==5.13.0
